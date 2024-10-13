@@ -1,0 +1,23 @@
+body h1 a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: larger;
+}
+body h1 a li {
+    text-decoration: none;
+    color: black;
+}
+body h1 a:hover{
+    color: rgb(228, 59, 211);
+}
+body{
+    background-color: rgb(190, 248, 249);
+
+}
+.women-li{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: larger;
+}
